@@ -6,3 +6,4 @@
 
 `/coin-rate`
 
+![coin-rate](https://raw.githubusercontent.com/dongri/slack-bitcoin/master/assets/rate.png)
